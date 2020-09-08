@@ -12,10 +12,10 @@ All Description had been written by Korean.
 모든 소스 코드의 주석은 한국어로 되어 있습니다.
 
 
-2020. 09. 08
+2020. 9. 8
 
-README 1 time changed 
-README의 내용은 1번 수정되었습니다.
+README 2 time changed 
+README의 내용은 2번 수정되었습니다.
 
 contant agerio100@naver.com
 문의 agerio100@naver.com
